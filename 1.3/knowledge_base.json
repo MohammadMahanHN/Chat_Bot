@@ -1,0 +1,40 @@
+{
+  "questions": [
+    {
+      "question": "what's your name?",
+      "answer": "I'm ChatBot"
+    },
+    {
+      "question": "hello!",
+      "answer": "Hey there!"
+    },
+    {
+      "question": "how are you?",
+      "answer": "good! thanks for asking!"
+    },
+    {
+      "question": "...",
+      "answer": "Elipses"
+    },
+    {
+      "question": "\u0633\u0644\u0627\u0645",
+      "answer": "\u0639\u0644\u064a\u06a9\u0645 \u0627\u0644\u0633\u0644\u0627\u0645"
+    },
+    {
+      "question": "what color do you like?",
+      "answer": "Black."
+    },
+    {
+      "question": "vgfjjk",
+      "answer": "hvhjvchj"
+    },
+    {
+      "question": "nksnkdsnvd",
+      "answer": "mvkds"
+    },
+    {
+      "question": "fhdjgfg",
+      "answer": "gncnc"
+    }
+  ]
+}
