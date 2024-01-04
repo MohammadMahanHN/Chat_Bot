@@ -1,0 +1,6 @@
+ChatBotV1.0 is a chatbot that using an openai api.
+ChatBotV1.1 is a text base chatbot that using a local knowledge.
+ChatBotV1.2 is a chatbot that using an online local knowledge.
+ChatBotV1.3 is a chatbot that using both online and offline knowledge.
+ChatBotV1.4 is a chatbot that using both online and offline knowledge and have microphone access.
+ChatBotV1.5 is a chatbot that use Ai created by PyTorch.
